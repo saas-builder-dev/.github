@@ -189,6 +189,7 @@ No specific configuration is required for the initial setup. However, you can cu
 ## Roadmap
 
 - [ ] **Integrations Section:** Add support for analytics, CRM tools, marketing widgets, payment gateways, and more.
+- [ ] **Product Builder**: Add the ability to create and customize a product.
 
 ---
 
