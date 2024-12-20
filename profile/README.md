@@ -1,6 +1,10 @@
 # SaaS Builder
 
-Build and Launch Your SaaS Website in Minutes with AI — A fast, AI-powered website builder that creates and customizes your SaaS site effortlessly. No coding, no hassle—just tell us about your idea, and let AI do the rest! Easily move your data to the server while we simplify the entire process for you.
+Build and Launch Your SaaS Website and Product in Minutes with AI  —
+A fast, AI-powered platform that creates and customizes your SaaS site effortlessly,
+with plans to include robust SaaS product-building features in the future.
+No coding, no hassle—just tell us about your idea, and let AI handle the rest!
+Easily move your data to the server while we simplify the entire process for you.
 
 ---
 
@@ -41,6 +45,7 @@ Build and Launch Your SaaS Website in Minutes with AI — A fast, AI-powered web
 - **Seamless Customization:** Once the website is generated, you have full control. Add, edit, or remove sections with ease—no coding required. Personalize the site’s content, layout, and style to match your brand identity.
 - **Fast Deployment to Server:** Skip the hassle of hosting. The tool automatically uploads your website to the server, ensuring it’s live and ready to share with your audience.
 - **Integrations Section (Coming Soon):** Enhance your website with integrations such as analytics, CRM tools, marketing widgets, payment gateways, and more. Seamlessly connect essential tools to scale your SaaS business.
+- **Future SaaS Product Builder (Coming Soon):** Go beyond website creation! The platform will soon include tools to design, prototype, and launch your SaaS product.
 
 ---
 
@@ -61,6 +66,7 @@ Building a SaaS website can be time-consuming, expensive, and technically challe
 - Design expertise to create an appealing user interface.
 - Coding skills to implement features.
 - Server management for hosting and deployment.
+- Significant resources to prototype, build, and launch a SaaS product.
 
 The SaaS Builder simplifies this entire process:
 
